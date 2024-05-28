@@ -1,5 +1,3 @@
-![AI and Robotics](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 ### Hi there 👋, I'm Otmar
 
 I'm Otmar from Benin, and I'm a computer science student that particularly enjoy robotics and artificial intelligence(AI) using Python. I'm also interested in Front-end Development using JavaScript. You can check out my LinkdIn at www.linkedin.com/in/otmar-tc.
